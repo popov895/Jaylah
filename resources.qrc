@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/application.svgz</file>
+        <file>resources/icons/trayicon_red.svgz</file>
+        <file>resources/icons/trayicon.svgz</file>
+        <file>resources/sound/alert.wav</file>
+    </qresource>
+</RCC>
